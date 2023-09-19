@@ -1,1 +1,1 @@
-# visualvariablesfigure
+![bertin visual variables](figure.png)
